@@ -1,3 +1,4 @@
+![All endpoints](Screenshot 2025-06-22 172342.png)
 # Multi-Level Referral & Earnings System API
 
 A backend API built with **FastAPI** implementing a multi-level referral system with real-time earnings tracking and WebSocket notifications.  
