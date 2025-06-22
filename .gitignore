@@ -1,0 +1,48 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyo
+*.pyd
+*.env
+.env
+venv/
+ENV/
+env/
+*.sqlite3
+
+# IDEs
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Byte-compiled / optimized / DLL files
+*.pyc
+*.pyo
+*.pyd
+
+# Coverage reports
+htmlcov/
+.coverage
+
+# MySQL dump file if any
+*.sql
+
+# Python virtual environment
+venv/
+ENV/
+
+# env variables
+.env
+
+# Uvicorn reload files
+*.db-journal
+
+# Pytest cache
+.pytest_cache/
